@@ -1,2 +1,5 @@
+[![Build Status](https://travis-ci.com/TiphaineV/stream2vec.svg?branch=master)](https://travis-ci.com/TiphaineV/stream2vec)
+
 # stream2vec
-Embeddings for stream graphs
+
+Vector embeddings for stream graphs
